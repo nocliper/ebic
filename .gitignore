@@ -1,2 +1,4 @@
 ions/
 papers/
+.ipynb_checkpoints/
+.DS_Store
